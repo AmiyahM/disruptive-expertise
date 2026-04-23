@@ -1,21 +1,21 @@
 ---
 title: Disruptive Expertise
 layout: base
-header-image: "/assets/images/book-to-network.jpg"
+header-image: "/assets/images/book-to-network.png"
 header-title: Disruptive Expertise
-header-subtitle: when technology questions authority
+header-subtitle: When technology questions authority
 header-position: 35% center
 ---
 
-# Your Class Project Name Goes Here
+## Who's an expert?
+When a new technology changes how information is produced, what happens to authority and expertise?
 
-This is your class project site, built with the [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. Your course topic and your students' writing go here.
+From the printing press to the telegraph to social media, new information technologies have triggered the same anxious debates: Who gets to be an authority now? Can we trust what we're reading? How do we know what we know?
 
-To get a sense of what a finished project can look like, this template includes three sample essays on Southwest food history, generated with AI as stand-ins for real student work. Browse them to see how essays can use images, pull quotes, and scroll-driven backgrounds. Then start replacing them with your own material.
+These essays, written by students in HIST 300 at the University of New Mexico, explore that recurring disruption. Each one examines a historical moment when a technology upended the authority of expertise — and asks what it might mean for understanding AI today.
 
-**Ready to begin?** Open `index.md` in your editor and change the title and this introduction. That's your first edit. The [documentation](docs/) covers everything else — how to add pages, configure navigation, set up student contributors, and customize the look.
+The writing here was researched and produced with AI assistance, and documents that process honestly. History doesn't give us simple answers about technology. But it helps us ask better questions.
 
-The card grid below links to the sample essays. The info on these cards come from the essay pages themselves. As students publish their essaysm, these will showcase students' work as the project develops.
 
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
