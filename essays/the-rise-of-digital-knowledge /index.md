@@ -1,10 +1,10 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "The rise of Digital Knowledge"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
-header-title: Wikipedia and the Wisdom of the Crowd
+header-title: The rise of digital knowledge
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
 ---
