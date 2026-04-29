@@ -54,7 +54,7 @@ The key insight was almost counterintuitive: the *lack* of a barrier to entry wa
 This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/images(1).jpeg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
