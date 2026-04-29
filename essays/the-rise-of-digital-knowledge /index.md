@@ -90,7 +90,7 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
 {% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+  image-path="images/pexels-ron-lach-9783815.webp"
   height="85vh"
   background-position="center top"
   box-align="left"
