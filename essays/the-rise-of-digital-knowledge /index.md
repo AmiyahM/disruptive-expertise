@@ -5,7 +5,7 @@ header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: Digital Knowledge is the ablity to evaluate and create information using technology safely and effectively
 header-title: The rise of digital knowledge
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-subtitle: How digital knowledge changed expertise 
 header-position: center
 ---
 
