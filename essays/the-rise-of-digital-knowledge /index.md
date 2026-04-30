@@ -17,7 +17,7 @@ The rise of digital knowledge basically means that information can now be create
 
 
 
-## The World Wikipedia Disrupted
+## The moment of Rupture 
 
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
