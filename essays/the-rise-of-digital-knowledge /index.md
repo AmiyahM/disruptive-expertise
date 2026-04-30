@@ -24,8 +24,6 @@ The rise of digital knowledge basically means that information can now be create
 What made this moment feel like such a big turning point—or a “rupture”—was the idea that knowledge was no longer controlled by just a few powerful institutions. In the past, universities, governments, and publishers had a lot of control over what information people could access. But the internet opened that up. Suddenly, anyone with access could not only find information but also share their own ideas with a global audience. This was a huge change in power. It made people believe that the internet could democratize knowledge, meaning it would give more people equal access to learning and opportunities.
 
 
-{% endcapture %}
-
 {% include images/figure-wrap.html
   image-path="images/books-britannica.jpeg"
   image-position="right"
