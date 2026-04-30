@@ -44,7 +44,7 @@ However, not everyone was completely positive about it. Some people were unsure 
 
 
 {% include scrollybox/bg.html
-  image-path="download.jpeg"
+  image-path="pexels-ron-lach-9783815.webp"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
