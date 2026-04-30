@@ -14,11 +14,7 @@ One technology that has had a huge impact on society is the rise of digital know
 The rise of digital knowledge basically means that information can now be created, stored, and shared online. Instead of being locked in physical spaces like books or classrooms, knowledge became something you could access instantly from almost anywhere. Search engines, websites, and eventually smartphones made it possible to look up almost anything in seconds. Because of this, society started shifting toward what people call a “knowledge-based” or “information” society, where information itself became one of the most valuable resources.
 
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
-
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
 
 
 ## The World Wikipedia Disrupted
