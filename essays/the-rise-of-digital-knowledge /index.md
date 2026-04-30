@@ -37,6 +37,7 @@ What made this moment feel like such a big turning point—or a “rupture”—
 ## Contemporary Reactions 
 
 At the time, people had a wide range of reactions to this shift. Many were genuinely excited. There was a lot of optimism about how digital knowledge could improve education, connect people across the world, and make life more convenient. For example, early discussions about the internet often highlighted how it could expand access to education and allow people to learn outside of traditional classrooms. The idea that you could take online courses, research anything you wanted, or communicate with people across the globe felt revolutionary.
+
 However, not everyone was completely positive about it. Some people were unsure or even worried about what this new technology would bring. One major concern was misinformation—if anyone could publish information online, how could people know what was accurate or trustworthy? There were also concerns about privacy, since more and more personal information was being shared digitally. Another big issue people pointed out early on was inequality. Not everyone had access to computers or the internet, which created what we now call the “digital divide.” This meant that while some people benefited a lot from digital knowledge, others were left behind.
 
 
