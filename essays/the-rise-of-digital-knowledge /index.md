@@ -48,7 +48,7 @@ However, not everyone was completely positive about it. Some people were unsure 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## What actually Happened 
 
 Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
 
