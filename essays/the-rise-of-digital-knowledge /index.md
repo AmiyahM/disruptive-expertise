@@ -43,7 +43,7 @@ However, not everyone was completely positive about it. Some people were unsure 
 
 
 {% include scrollybox/bg.html
-  image-path="images/images(1).jpeg"
+  image-path="download.jpeg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
