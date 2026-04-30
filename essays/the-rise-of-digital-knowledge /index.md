@@ -50,13 +50,9 @@ However, not everyone was completely positive about it. Some people were unsure 
   box-content="
 ## What actually Happened 
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+Looking back now, it’s interesting to see that many of these early reactions were actually pretty accurate. The rise of digital knowledge really did transform society in major ways, just like people predicted. Today, most of us rely on the internet for everyday tasks like learning, communicating, shopping, and even working. Students can access online textbooks, watch educational videos, and use tools that make learning more interactive. Entire industries, like social media and e-commerce, were built on the idea of sharing and using digital information.
+At the same time, the concerns people had were also valid. Misinformation has become a huge issue, especially on social media platforms where false information can spread quickly. Privacy is another ongoing concern, as companies collect and use large amounts of personal data. And the digital divide still exists—while access to technology has improved, there are still communities that don’t have the same level of access or digital literacy as others. So even though digital knowledge created a lot of opportunities, it also introduced new challenges that society is still trying to figure out.
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
-
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
 %}
 
