@@ -11,6 +11,8 @@ header-position: center
 
 # The Technology
 One technology that has had a huge impact on society is the rise of digital knowledge, which developed alongside the growth of the internet and personal computers in the late 20th century. Before this shift, accessing information looked completely different from how it does today. If you wanted to learn something, you usually had to go to a library, read books, or rely on teachers and experts. Information felt more limited and sometimes harder to access. But once the internet started becoming more widely available in the 1990s and early 2000s, everything changed.
+
+
 The rise of digital knowledge basically means that information can now be created, stored, and shared online. Instead of being locked in physical spaces like books or classrooms, knowledge became something you could access instantly from almost anywhere. Search engines, websites, and eventually smartphones made it possible to look up almost anything in seconds. Because of this, society started shifting toward what people call a “knowledge-based” or “information” society, where information itself became one of the most valuable resources.
 
 
