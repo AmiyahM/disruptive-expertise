@@ -25,7 +25,7 @@ What made this moment feel like such a big turning point—or a “rupture”—
 
 
 {% include images/figure-wrap.html
-  image-path="images(1).jpeg"
+  image-path="images/images (1).jpeg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
@@ -44,7 +44,7 @@ However, not everyone was completely positive about it. Some people were unsure 
 
 
 {% include scrollybox/bg.html
-  image-path="pexels-ron-lach-9783815.webp"
+  image-path="images/pexels-ron-lach-9783815.webp"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
