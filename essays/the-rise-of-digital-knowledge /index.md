@@ -34,7 +34,7 @@ What made this moment feel like such a big turning point—or a “rupture”—
 
 
 
-## Anyone Can Edit
+## Contemporary Reactions 
 
 Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
 
