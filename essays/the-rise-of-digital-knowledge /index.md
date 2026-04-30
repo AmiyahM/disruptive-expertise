@@ -59,15 +59,13 @@ At the same time, the concerns people had were also valid. Misinformation has be
 
 ## Connection to AI
 
-The backlash was immediate and, in some quarters, never stopped.
+I think one of the most important things to take away from this is that technology doesn’t just have one clear outcome. When the internet first became popular, people either saw it as something that would completely improve society or something that would create problems. In reality, it did both. It made life easier in many ways and opened up new opportunities, but it also created issues that no one fully knew how to handle at the time.
+This connects really well to the way we talk about artificial intelligence today. AI is another example of a technology that is changing how we create, access, and trust information. Just like the rise of digital knowledge, AI is making information more available and easier to produce. For example, AI tools can generate answers, write essays, and even create images in seconds. This can be really helpful, especially for learning and productivity. But it also raises concerns that feel very familiar—like whether the information is accurate, who controls it, and how it might impact jobs or education.
+When I think about it, the history of digital knowledge shows that it’s normal for people to have mixed reactions to new technology. There will always be excitement about the possibilities, but also concerns about the risks. Instead of assuming a technology will be completely good or completely bad, it’s probably more realistic to expect both. What really matters is how people choose to use it and how society decides to regulate it.
+Overall, the rise of digital knowledge was a major turning point that reshaped how we live, learn, and communicate. It made information more accessible than ever before, but it also introduced new challenges that we are still dealing with today. Looking at this history can help us better understand current debates about AI and remind us that technology’s impact is always complex.
 
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
 
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
 
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
 
 
 ## The Famous Test
