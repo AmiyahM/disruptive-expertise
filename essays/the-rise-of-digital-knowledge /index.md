@@ -40,9 +40,7 @@ At the time, people had a wide range of reactions to this shift. Many were genui
 However, not everyone was completely positive about it. Some people were unsure or even worried about what this new technology would bring. One major concern was misinformation—if anyone could publish information online, how could people know what was accurate or trustworthy? There were also concerns about privacy, since more and more personal information was being shared digitally. Another big issue people pointed out early on was inequality. Not everyone had access to computers or the internet, which created what we now call the “digital divide.” This meant that while some people benefited a lot from digital knowledge, others were left behind.
 
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
   image-path="images/images(1).jpeg"
