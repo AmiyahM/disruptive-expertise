@@ -68,7 +68,7 @@ Overall, the rise of digital knowledge was a major turning point that reshaped h
 
 
 
-## The Famous Test
+
 
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
