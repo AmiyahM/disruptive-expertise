@@ -57,7 +57,7 @@ At the same time, the concerns people had were also valid. Misinformation has be
 %}
 
 
-## The Critics Respond
+## Connection to AI
 
 The backlash was immediate and, in some quarters, never stopped.
 
