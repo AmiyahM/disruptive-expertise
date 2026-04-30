@@ -19,12 +19,8 @@ The rise of digital knowledge basically means that information can now be create
 
 ## The moment of Rupture 
 
-{% capture britannica_text %}
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
+What made this moment feel like such a big turning point—or a “rupture”—was the idea that knowledge was no longer controlled by just a few powerful institutions. In the past, universities, governments, and publishers had a lot of control over what information people could access. But the internet opened that up. Suddenly, anyone with access could not only find information but also share their own ideas with a global audience. This was a huge change in power. It made people believe that the internet could democratize knowledge, meaning it would give more people equal access to learning and opportunities.
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
-
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
 
 {% endcapture %}
 
